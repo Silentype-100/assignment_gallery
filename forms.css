@@ -1,0 +1,62 @@
+body    {
+    background-color:#FF3300;
+     font-family:ariel, sans serrif;
+      margin:0;
+
+}
+
+#main    {
+   width:80%;
+  padding:15%;
+ margin-top:left;
+margin-left:auto;
+margin-right:auto;
+background-color:#0099FF;
+}
+
+
+#container  {
+   background-color:#33FFFF;
+   width:100%;
+    padding-right:5%;
+    padding-left:5%;
+}
+
+
+
+legend  {
+  font-family:times new roman,serif;
+  font-weight:bold;
+  font-size:14%;
+
+}
+
+
+label   {
+font-size:12pt%;
+font-weight:bold;
+ color: purple;
+  float:left;
+ clear:left;
+  padding-right:25px;
+}
+
+
+fieldset    {
+ width:80%;
+ border:5px double red;
+ padding:10px;
+}
+
+
+ input  {
+ float:right;
+
+
+
+ }
+
+
+
+
+
